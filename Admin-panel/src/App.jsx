@@ -17,6 +17,7 @@ const PrivateRoute = ({ element }) => {
 };
 
 const App = () => {
+  const url = "http://localhost:4000"
   return (
     <AdminContextProvider>
       <ToastContainer />
@@ -25,9 +26,9 @@ const App = () => {
       <div className="app-content">
         <Sidebar />
         <Routes>
-          <Route path="/add" element={<Add />} />
-          <Route path="/list" element={<List />} />
-          <Route path="/orders" element={<PrivateRoute element={<Orders />} />} />
+          <Route path="/add" element={<Add url={url}/>} />
+          <Route path="/list" element={<List url={url}/>} />
+          <Route path="/orders" element={<PrivateRoute element={<Orders url={url}/>} />} />
           <Route path="/login" element={<AdminLogin />} />
           <Route path="/" element={<Navigate to="/orders" replace />} />
         </Routes>

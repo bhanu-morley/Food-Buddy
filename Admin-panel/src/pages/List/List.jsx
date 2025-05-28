@@ -34,7 +34,7 @@ const List = () => {
 
       if (response.data.success) {
         toast.success(response.data.message);
-        fetchList();  // Refresh list after removal
+        fetchList();
       } else {
         toast.error("Error removing food");
       }
