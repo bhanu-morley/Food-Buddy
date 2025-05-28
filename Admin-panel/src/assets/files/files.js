@@ -18,4 +18,4 @@ export const files ={
     delete_food
 }
 
-export const url = 'https://back-end-p345.onrender.com'
+export const url = 'https://back-end-p345.onrender.com/api/admin'

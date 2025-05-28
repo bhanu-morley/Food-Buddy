@@ -3,9 +3,10 @@ import axios from 'axios';
 import { AdminContext } from '../../context/AdminContext';
 import { useNavigate } from 'react-router-dom';
 import './AdminLogin.css';
+import {url} from '../../assets/files/files'
 
 const AdminLogin = () => {
-  const { setToken, url } = useContext(AdminContext);
+  const { setToken } = useContext(AdminContext);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const navigate = useNavigate();
