@@ -3,6 +3,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 import { AdminContext } from '../../context/AdminContext';
 import './List.css';
+import {files} from '../../assets/files/files'
 
 const List = () => {
   const { url, token } = useContext(AdminContext);
