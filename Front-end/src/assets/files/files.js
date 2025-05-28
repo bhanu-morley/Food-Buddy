@@ -96,7 +96,7 @@ import milky_butterscotch_cake from './milky_butterscotch_cake.jpeg';
 import white_forest_cake from './white_forest_cake.jpeg';
 import choco_chips_cake from './choco_chips_cake.jpeg';
 import black_forest_cake from './black_forest_cake.jpeg';
-import vanilla_cake from './vanilla_cake.jpg';
+import vanilla_cake from './vanilla_cake.jpeg';
 
 // Burgers Images
 import paneer_grilled_sandwich from './paneer_grilled_sandwich.jpeg';
