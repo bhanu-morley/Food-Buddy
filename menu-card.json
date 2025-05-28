@@ -1,0 +1,723 @@
+[
+    {
+        "name": "Chicken Dum Biryani",
+        "image": "chicken_dum_biryani.jpeg",
+        "price": 249,
+        "description": "Fragrant rice and tender spiced chicken.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken Fry Biryani",
+        "image": "chicken_fry_biryani.jpeg",
+        "price": 249,
+        "description": "Flavorful rice with crispy fried chicken.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken Dum Biryani[Half]",
+        "image": "chicken_dum_biryani.jpeg",
+        "price": 189,
+        "description": "Half portion of tender spiced chicken biryani.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken Fry Biryani[Half]",
+        "image": "chicken_fry_biryani.jpeg",
+        "price": 189,
+        "description": "Half portion of crispy fried chicken biryani.",
+        "category": "biryani"
+    },
+    {
+        "name": "Mutton Biryani",
+        "image": "mutton_biryani.jpeg",
+        "price": 319,
+        "description": "Aromatic rice cooked with tender mutton.",
+        "category": "biryani"
+    },
+    {
+        "name": "Prawns Biryani",
+        "image": "prawns_biryani.jpeg",
+        "price": 299,
+        "description": "Spiced rice with succulent prawns.",
+        "category": "biryani"
+    },
+    {
+        "name": "Kalmi Biryani",
+        "image": "kalmi_biryani.jpeg",
+        "price": 269,
+        "description": "Flavorful rice with juicy kalmi chicken.",
+        "category": "biryani"
+    },
+    {
+        "name": "Mughalai Biryani",
+        "image": "mughlai_biryani.jpeg",
+        "price": 269,
+        "description": "Rich, creamy Mughalai-style chicken biryani.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken Lollipop Biryani",
+        "image": "chicken_lollipop_biryani.jpeg",
+        "price": 249,
+        "description": "Fragrant rice with crispy chicken lollipops.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken Mandi[2 serving]",
+        "image": "chicken_mandi.png",
+        "price": 319,
+        "description": "Slow-cooked chicken mandi, two servings.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken Mandi[4 serving]",
+        "image": "chicken_mandi.png",
+        "price": 499,
+        "description": "Large chicken mandi, serves four.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken 65 Biryani",
+        "image": "chicken_65_biryani.jpeg",
+        "price": 249,
+        "description": "Spicy chicken 65 with flavorful biryani.",
+        "category": "biryani"
+    },
+    {
+        "name": "Kaju Paneer Biryani",
+        "image": "kaju_paneer_biryani.jpeg",
+        "price": 179,
+        "description": "Creamy paneer and cashew nut biryani.",
+        "category": "biryani"
+    },
+    {
+        "name": "Paneer Biryani",
+        "image": "paneer_biryani.jpeg",
+        "price": 159,
+        "description": "Delicious spiced rice with soft paneer.",
+        "category": "biryani"
+    },
+    {
+        "name": "Mushroom Biryani",
+        "image": "mushroom_biryani.jpeg",
+        "price": 179,
+        "description": "Flavorful rice with sautéed mushrooms.",
+        "category": "biryani"
+    },
+    {
+        "name": "Veg Biryani",
+        "image": "veg_biryani.jpeg",
+        "price": 179,
+        "description": "Mixed vegetables cooked with aromatic rice.",
+        "category": "biryani"
+    },
+    {
+        "name": "Khasmiri Pulav",
+        "image": "kasmiri_pulav.jpeg",
+        "price": 179,
+        "description": "Sweet and savory Kashmiri-style rice pilaf.",
+        "category": "biryani"
+    },
+    {
+        "name": "Chicken 65",
+        "image": "chicken_65.jpeg",
+        "price": 189,
+        "description": "Spicy, deep-fried chicken appetizer.",
+        "category": "starter"
+    },
+    {
+        "name": "Chicken 555",
+        "image": "chicken_555.jpeg",
+        "price": 189,
+        "description": "Tangy and spicy chicken appetizer.",
+        "category": "starter"
+    },
+    {
+        "name": "Chicken Half Wings",
+        "image": "chicken_half_wings.jpeg",
+        "price": 179,
+        "description": "Crispy fried half chicken wings.",
+        "category": "starter"
+    },
+    {
+        "name": "Chicken Wings",
+        "image": "chicken_wings.jpeg",
+        "price": 199,
+        "description": "Classic seasoned and fried chicken wings.",
+        "category": "starter"
+    },
+    {
+        "name": "Chilli Chicken",
+        "image": "chilli_chicken.jpeg",
+        "price": 199,
+        "description": "Spicy, Indo-Chinese style chicken.",
+        "category": "starter"
+    },
+    {
+        "name": "Chicken Lollipop[5 pieces]",
+        "image": "chicken_lollipop.jpeg",
+        "price": 219,
+        "description": "Five crispy chicken lollipops.",
+        "category": "starter"
+    },
+    {
+        "name": "Apollo Fish",
+        "image": "apollo_fish.jpeg",
+        "price": 219,
+        "description": "Spicy, crispy fried fish.",
+        "category": "starter"
+    },
+    {
+        "name": "Chicken Majestic",
+        "image": "chicken_majestic.jpeg",
+        "price": 199,
+        "description": "Rich and creamy chicken appetizer.",
+        "category": "starter"
+    },
+    {
+        "name": "Loose Prawns",
+        "image": "loose_prawns.jpeg",
+        "price": 239,
+        "description": "Crispy fried prawns, perfect appetizer.",
+        "category": "starter"
+    },
+    {
+        "name": "Dragon Chicken",
+        "image": "dragon_chicken.jpeg",
+        "price": 219,
+        "description": "Sweet, spicy, and tangy chicken.",
+        "category": "starter"
+    },
+    {
+        "name": "Chilli Mushroom",
+        "image": "chilli_mushroom.jpeg",
+        "price": 189,
+        "description": "Spicy Indo-Chinese style mushrooms.",
+        "category": "starter"
+    },
+    {
+        "name": "Chilli Baby Corn",
+        "image": "chilli_baby_corn.jpeg",
+        "price": 189,
+        "description": "Crispy and spicy baby corn.",
+        "category": "starter"
+    },
+    {
+        "name": "Paneer Majestic",
+        "image": "paneer_majestic.jpeg",
+        "price": 199,
+        "description": "Creamy and rich paneer appetizer.",
+        "category": "starter"
+    },
+    {
+        "name": "Paneer 65",
+        "image": "paneer_65.jpeg",
+        "price": 199,
+        "description": "Spicy deep-fried paneer cubes.",
+        "category": "starter"
+    },
+    {
+        "name": "Mushroom 65",
+        "image": "mushroom_65.jpeg",
+        "price": 199,
+        "description": "Spicy deep-fried mushroom appetizer.",
+        "category": "starter"
+    },
+    {
+        "name": "Chilli Paneer",
+        "image": "chilli_paneer.jpeg",
+        "price": 219,
+        "description": "Spicy Indo-Chinese style paneer.",
+        "category": "starter"
+    },
+    {
+        "name": "Crispy Corn",
+        "image": "crispy_corn.jpeg",
+        "price": 219,
+        "description": "Crunchy, seasoned deep-fried corn.",
+        "category": "starter"
+    },
+    {
+        "name": "Gobi 65",
+        "image": "gobi_65.jpeg",
+        "price": 189,
+        "description": "Spicy deep-fried cauliflower florets.",
+        "category": "starter"
+    },
+    {
+        "name": "Chocolate Fondant",
+        "image": "chocolate_fondant.jpeg",
+        "price": 199,
+        "description": "Warm chocolate cake with molten center.",
+        "category": "dessert"
+    },
+    {
+        "name": "Crème Brûlée",
+        "image": "creme_brulee.jpeg",
+        "price": 199,
+        "description": "Creamy custard with caramelized sugar top.",
+        "category": "dessert"
+    },
+    {
+        "name": "Tiramisu",
+        "image": "tiramisu.jpeg",
+        "price": 199,
+        "description": "Classic coffee-flavored Italian dessert.",
+        "category": "dessert"
+    },
+    {
+        "name": "Opera Cake",
+        "image": "opera_cake.jpeg",
+        "price": 189,
+        "description": "Layers of coffee, chocolate, and almond cake.",
+        "category": "dessert"
+    },
+    {
+        "name": "Soufflé",
+        "image": "souffle.jpeg",
+        "price": 169,
+        "description": "Light, airy baked dessert.",
+        "category": "dessert"
+    },
+    {
+        "name": "Panna Cotta",
+        "image": "panna_cotta.jpeg",
+        "price": 169,
+        "description": "Silky smooth Italian cream dessert.",
+        "category": "dessert"
+    },
+    {
+        "name": "Macarons",
+        "image": "macarons.jpeg",
+        "price": 149,
+        "description": "Delicate, colorful French meringue cookies.",
+        "category": "dessert"
+    },
+    {
+        "name": "Lemon Tart",
+        "image": "lemon_Ttrt.jpeg",
+        "price": 179,
+        "description": "Tangy lemon filling in a buttery crust.",
+        "category": "dessert"
+    },
+    {
+        "name": "Seasonal Fruit Dessert",
+        "image": "seasonal_fruit_dessert.jpeg",
+        "price": 199,
+        "description": "Fresh seasonal fruits with light cream.",
+        "category": "dessert"
+    },
+    {
+        "name": "Cheesecake",
+        "image": "cheesecake.jpeg",
+        "price": 179,
+        "description": "Creamy, rich, classic cheesecake.",
+        "category": "dessert"
+    },
+    {
+        "name": "Virgin Mojito",
+        "image": "virgin_mojito.jpeg",
+        "price": 169,
+        "description": "Refreshing lime and mint cooler.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Nojito Mule",
+        "image": "nojito_mule.jpeg",
+        "price": 149,
+        "description": "Ginger beer, lime, and mint mocktail.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Mango Basil Cooler",
+        "image": "mango_basil.jpeg",
+        "price": 179,
+        "description": "Sweet mango with fresh basil.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Strawberry Lemonade",
+        "image": "strawberry_lemonade.jpeg",
+        "price": 169,
+        "description": "Sweet strawberries with zesty lemonade.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Cucumber Mint Spiritz",
+        "image": "cucumber_mint_spiritz.jpeg",
+        "price": 149,
+        "description": "Cool cucumber and refreshing mint spritz.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Blue Lagoon",
+        "image": "blue_lagoon.jpeg",
+        "price": 179,
+        "description": "Sweet, citrusy, vibrant blue drink.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Tropical Sunrise",
+        "image": "tropical_sunrise.jpeg",
+        "price": 179,
+        "description": "Fruity blend for a tropical taste.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Watermelon Fizz",
+        "image": "watermelon_fizz.jpeg",
+        "price": 149,
+        "description": "Sparkling and refreshing watermelon drink.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Passion Fruit Punch",
+        "image": "passion_fruit_punch.jpeg",
+        "price": 189,
+        "description": "Exotic passion fruit flavored punch.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Lychee Rose Cooler",
+        "image": "lychee_rose_cooler.jpeg",
+        "price": 179,
+        "description": "Fragrant lychee and delicate rose cooler.",
+        "category": "mocktails"
+    },
+    {
+        "name": "Madagascar Vanilla",
+        "image": "madagascar_vanilla.jpeg",
+        "price": 129,
+        "description": "Classic, rich Madagascar vanilla ice cream.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Belgian Chocolate",
+        "image": "belgian_chocolate.jpeg",
+        "price": 129,
+        "description": "Rich, creamy Belgian chocolate ice cream.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Pistachio Gelato",
+        "image": "pistachio_gelato.jpeg",
+        "price": 129,
+        "description": "Smooth, nutty pistachio flavored gelato.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Salted Caramel",
+        "image": "salted_caramel.jpeg",
+        "price": 129,
+        "description": "Sweet and salty caramel ice cream.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Mango Sorbet",
+        "image": "mango_sorbet.jpeg",
+        "price": 129,
+        "description": "Refreshing, dairy-free mango sorbet.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Strawberry Cheesecake",
+        "image": "strawberry_cheesecake.jpeg",
+        "price": 129,
+        "description": "Creamy cheesecake with sweet strawberries.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Coconut Almond Crunch",
+        "image": "coconut_almond_crunch.jpeg",
+        "price": 129,
+        "description": "Coconut ice cream with almond crunch.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Matcha Green Tea",
+        "image": "matcha_green_tea.jpeg",
+        "price": 129,
+        "description": "Earthy, vibrant matcha green tea ice cream.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Rum and Raisin",
+        "image": "rum_and_raisin.jpeg",
+        "price": 129,
+        "description": "Classic rum-infused raisin ice cream.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Cookies and Cream",
+        "image": "cookies_and_cream.jpeg",
+        "price": 129,
+        "description": "Creamy ice cream with cookie chunks.",
+        "category": "ice-cream"
+    },
+    {
+        "name": "Red Velvet cake",
+        "image": "red_velvet_cake.jpeg",
+        "price": 349,
+        "description": "Moist red velvet cake with cream cheese.",
+        "category": "cakes"
+    },
+    {
+        "name": "Milky Butterscotch cake",
+        "image": "milky_butterscotch_cake.jpeg",
+        "price": 359,
+        "description": "Sweet butterscotch and milky flavored cake.",
+        "category": "cakes"
+    },
+    {
+        "name": "White Forest Cake",
+        "image": "white_forest_cake.jpeg",
+        "price": 359,
+        "description": "White chocolate, cream, and cherry cake.",
+        "category": "cakes"
+    },
+    {
+        "name": "Choco Chips Cake",
+        "image": "choco_chips_cake.jpeg",
+        "price": 359,
+        "description": "Delicious cake loaded with chocolate chips.",
+        "category": "cakes"
+    },
+    {
+        "name": "Black Forest Cake",
+        "image": "black_forest_cake.jpeg",
+        "price": 359,
+        "description": "Chocolate cake with cherries and cream.",
+        "category": "cakes"
+    },
+    {
+        "name": "Vanilla Cake",
+        "image": "vanilla_cake.jpeg",
+        "price": 359,
+        "description": "Simple and classic vanilla flavored cake.",
+        "category": "cakes"
+    },
+    {
+        "name": "Paneer Grilled Sandwich",
+        "image": "paneer_grilled_sandwich.jpeg",
+        "price": 199,
+        "description": "Grilled sandwich with spiced paneer.",
+        "category": "sandwich"
+    },
+    {
+        "name": "Chicken Sandwich",
+        "image": "chicken_sandwich.jpeg",
+        "price": 199,
+        "description": "Classic sandwich with seasoned chicken.",
+        "category": "sandwich"
+    },
+    {
+        "name": "Chicken Cheese Sandwich",
+        "image": "chicken_cheese_sandwich.jpeg",
+        "price": 199,
+        "description": "Chicken and cheese in a grilled sandwich.",
+        "category": "sandwich"
+    },
+    {
+        "name": "Paneer Cheese Sandwich",
+        "image": "paneer_cheese_sandwich.jpeg",
+        "price": 199,
+        "description": "Grilled paneer and cheese sandwich.",
+        "category": "sandwich"
+    },
+    {
+        "name": "Veg Cheese Sandwich",
+        "image": "veg_cheese_sandwich.jpeg",
+        "price": 199,
+        "description": "Mixed vegetables and cheese sandwich.",
+        "category": "sandwich"
+    },
+    {
+        "name": "spicy paneer pizza",
+        "image": "spicy_paneer_pizza.jpeg",
+        "price": 219,
+        "description": "Pizza topped with spicy paneer.",
+        "category": "pizza"
+    },
+    {
+        "name": "malai chicken pizza",
+        "image": "malai_chicken_pizza.jpeg",
+        "price": 219,
+        "description": "Creamy malai chicken on pizza.",
+        "category": "pizza"
+    },
+    {
+        "name": "peri peri chicken pizza",
+        "image": "peri_peri_chicken_pizza.jpeg",
+        "price": 219,
+        "description": "Spicy peri peri chicken pizza.",
+        "category": "pizza"
+    },
+    {
+        "name": "chicken supreme pizza",
+        "image": "chicken_supreme_pizza.jpeg",
+        "price": 219,
+        "description": "Loaded pizza with supreme chicken.",
+        "category": "pizza"
+    },
+    {
+        "name": "capsicum chicken pizza",
+        "image": "capsicum_chicken_pizza.jpeg",
+        "price": 219,
+        "description": "Chicken and colorful capsicum pizza.",
+        "category": "pizza"
+    },
+    {
+        "name": "spicy paneer pizza",
+        "image": "spicy_paneer_pizza.jpeg",
+        "price": 219,
+        "description": "Pizza topped with spicy paneer.",
+        "category": "pizza"
+    },
+    {
+        "name": "baby corn mushroom pizza",
+        "image": "baby_corn_mushroom_pizza.jpeg",
+        "price": 219,
+        "description": "Pizza with baby corn and mushrooms.",
+        "category": "pizza"
+    },
+    {
+        "name": "paneer delight pizza",
+        "image": "paneer_delight_pizza.jpeg",
+        "price": 219,
+        "description": "Delightful pizza topped with paneer.",
+        "category": "pizza"
+    },
+    {
+        "name": "margherita pizza",
+        "image": "margherita_pizza.jpeg",
+        "price": 219,
+        "description": "Classic pizza with tomato and mozzarella.",
+        "category": "pizza"
+    },
+    {
+        "name": "vegi vegi pizza",
+        "image": "vegi_vegi_pizza.jpeg",
+        "price": 219,
+        "description": "Loaded vegetarian pizza with fresh veggies.",
+        "category": "pizza"
+    },
+    {
+        "name": "Italian pizza",
+        "image": "italian_pizza.jpeg",
+        "price": 219,
+        "description": "Authentic Italian-style pizza.",
+        "category": "pizza"
+    },
+    {
+        "name": "Chicken Noodles",
+        "image": "chicken_noodles.jpeg",
+        "price": 199,
+        "description": "Stir-fried noodles with chicken.",
+        "category": "chinese"
+    },
+    {
+        "name": "Chicken Fried Rice",
+        "image": "chicken_fried_rice.jpeg",
+        "price": 199,
+        "description": "Classic fried rice with chicken.",
+        "category": "chinese"
+    },
+    {
+        "name": "Schezwan Chicken Fried Rice",
+        "image": "schezwan_chicken_fried_rice.jpeg",
+        "price": 199,
+        "description": "Spicy Schezwan chicken fried rice.",
+        "category": "chinese"
+    },
+    {
+        "name": "Chicken Manchurian",
+        "image": "chicken_manchurian.jpeg",
+        "price": 199,
+        "description": "Sweet and savory chicken Manchurian.",
+        "category": "chinese"
+    },
+    {
+        "name": "Chicken Soup",
+        "image": "chicken_soup.jpeg",
+        "price": 199,
+        "description": "Comforting and flavorful chicken soup.",
+        "category": "chinese"
+    },
+    {
+        "name": "Spl. Chicken Fried Rice",
+        "image": "spl_chicken_fried_rice.jpeg",
+        "price": 2199,
+        "description": "Special flavorful chicken fried rice.",
+        "category": "chinese"
+    },
+    {
+        "name": "Egg Fried Rice",
+        "image": "egg_fried_rice.jpeg",
+        "price": 2199,
+        "description": "Fried rice with scrambled eggs.",
+        "category": "chinese"
+    },
+    {
+        "name": "Egg Noodles",
+        "image": "egg_noodles.jpeg",
+        "price": 199,
+        "description": "Stir-fried noodles with egg.",
+        "category": "chinese"
+    },
+    {
+        "name": "Veg Noodles",
+        "image": "veg_noodles.jpeg",
+        "price": 199,
+        "description": "Stir-fried noodles with mixed vegetables.",
+        "category": "chinese"
+    },
+    {
+        "name": "Veg Manchurian",
+        "image": "veg_manchurian.jpeg",
+        "price": 199,
+        "description": "Vegetable dumplings in savory sauce.",
+        "category": "chinese"
+    },
+    {
+        "name": "Veg Fried Rice",
+        "image": "veg_fried_rice.jpeg",
+        "price": 199,
+        "description": "Classic fried rice with vegetables.",
+        "category": "chinese"
+    },
+    {
+        "name": "Spl. Veg Mixed Fried Rice",
+        "image": "spl_veg_mixed_fried_rice.jpeg",
+        "price": 2199,
+        "description": "Special mixed vegetable fried rice.",
+        "category": "chinese"
+    },
+    {
+        "name": "Veg Manchurian Fried Rice",
+        "image": "veg_manchurian_fried_rice.jpeg",
+        "price": 2199,
+        "description": "Fried rice with savory veg Manchurian.",
+        "category": "chinese"
+    },
+    {
+        "name": "Kaju Paneer Fried Rice",
+        "image": "kaju_paneer_fried_rice.jpeg",
+        "price": 199,
+        "description": "Fried rice with cashews and paneer.",
+        "category": "chinese"
+    },
+    {
+        "name": "Chilli Paneer Fried Rice",
+        "image": "chilli_paneer_fried_rice.jpeg",
+        "price": 199,
+        "description": "Spicy chilli paneer fried rice.",
+        "category": "chinese"
+    },
+    {
+        "name": "Jeera Rice",
+        "image": "jeera_rice.jpeg",
+        "price": 199,
+        "description": "Fragrant basmati rice with cumin seeds.",
+        "category": "chinese"
+    }
+]
