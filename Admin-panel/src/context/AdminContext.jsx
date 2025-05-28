@@ -4,7 +4,7 @@ export const AdminContext = createContext();
 
 const AdminContextProvider = ({ children }) => {
   const [token, setToken] = useState(localStorage.getItem('adminToken') || '');
-  const url = 'http://localhost:4000';
+  const url = 'https://back-end-p345.onrender.com';
 
   useEffect(() => {
     localStorage.setItem('adminToken', token);
