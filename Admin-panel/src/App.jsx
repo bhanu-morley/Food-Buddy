@@ -1,5 +1,4 @@
-// App.jsx
-import React, { useContext } from 'react';
+import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Navbar from './components/Navbar/Navbar';
 import Sidebar from './components/Sidebar/Sidebar';
@@ -11,9 +10,9 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import AdminContextProvider, { AdminContext } from './context/AdminContext';
 
-const PrivateRoute = ({ element }) => {
-  const { token } = useContext(AdminContext);
-  return token ? element : <Navigate to="/login" replace />;
+const ProtectedRoute = ({ children }) => {
+  const token = localStorage.getItem("adminToken");
+  return token ? children : <Navigate to="/login" />;
 };
 
 const App = () => {
@@ -26,9 +25,17 @@ const App = () => {
       <div className="app-content">
         <Sidebar />
         <Routes>
-          <Route path="/add" element={<Add url={url}/>} />
-          <Route path="/list" element={<List url={url}/>} />
-          <Route path="/orders" element={<PrivateRoute element={<Orders url={url}/>} />} />
+          <Route path="/add" element={<Add url={url} />} />
+          <Route path="/list" element={
+            <ProtectedRoute>
+            <List />
+            </ProtectedRoute>
+          } />
+          <Route path="/orders" element={
+            <ProtectedRoute>
+              <Orders />
+            </ProtectedRoute>
+          } />
           <Route path="/login" element={<AdminLogin />} />
           <Route path="/" element={<Navigate to="/orders" replace />} />
         </Routes>
