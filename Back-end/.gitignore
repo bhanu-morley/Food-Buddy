@@ -1,1 +1,4 @@
 .env
+.createAdmin.js
+.testAdmin.js
+.testPassword.js
